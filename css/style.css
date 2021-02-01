@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;700&display=swap');
+:root {
+  --blue: #303952;
+  --blue-accent: #546de5;
+  --pink: #f8a5c2;
+  --dark-grey: #596275;
+  --black: #2C3A47;
+  --white: #f5f6fa;
+  --radus: 10px;
+}
+
+body{
+  font-family: 'Nunito', sans-serif;
+}
+
+img{
+  max-width: 100%;
+}
+
+
+header.main{
+  background-color: var(--blue);
+  color: var(--white);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+header.main h1{
+  margin:0;
+}
+
+.title{
+  font-size: 3rem;
+}
+
+.subtitle{
+  font-size: 2rem;
+}
+
+.main-container{
+  width: 52rem;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+.padding-y-100{
+  padding-top: 6.25rem;
+  padding-bottom: 6.25rem;
+}
+
+.padding{
+  padding-inline-start: 1.25rem;
+  padding-inline-end: 1.25rem;
+
+  padding-block-start: 1rem;
+  padding-block-end: 1rem;
+}
+
+.project{
+  display: grid;
+  grid-template-columns: 300px minmax(0,1fr);
+  column-gap: 1em;
+}
+
+.project img{
+  align-self: center;
+}
+
+.card{
+  
+  border-radius: var(--radus);
+  box-shadow:  20px 20px 60px #bebebe,
+             -20px -20px 60px #ffffff;
+}
