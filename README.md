@@ -26,7 +26,7 @@ TO DO: Agregar links a estos servicios
 1. Diseño sobrio.
 2. Que el diseño refleje tu personalidad si quieres.
 
-# Paletas de colores
+# Paletas de colores
 
 https://coolors.co/palettes/trending
 https://yeun.github.io/open-color/
