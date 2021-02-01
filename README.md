@@ -28,15 +28,18 @@ TO DO: Agregar links a estos servicios
 
 # Paletas de colores
 
-https://coolors.co/palettes/trending
-https://yeun.github.io/open-color/
-https://tailwindcss.com/docs/customizing-colors
-https://materializecss.com/color.html
-https://color.adobe.com/es/explore
-https://flatuicolors.com/
+* https://coolors.co/palettes/trending
+* https://yeun.github.io/open-color/
+* https://tailwindcss.com/docs/customizing-colors
+* https://materializecss.com/color.html
+* https://color.adobe.com/es/explore
+* https://flatuicolors.com/
+
+# Íconos
+* https://www.flaticon.com/
 
 # Fuentes
-https://fonts.google.com/
+* https://fonts.google.com/
 
 # Otros recursos
 Neumorphism shadow generator:
