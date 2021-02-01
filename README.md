@@ -13,7 +13,7 @@
 4. Enlista tus proyectos laborales y personales
 
 
-# Sobre tus proyectos
+# Sobre tus proyectos
 
 TO DO: Agregar links a estos servicios
 1. Si puedes, agrega links. Si aún no están en un dominio o hosting propio puedes subirlas gratis a: Heroku, Vercel, Glitch, Stackblitz, GitHub Pages, CodeSandbox, CodePen.
